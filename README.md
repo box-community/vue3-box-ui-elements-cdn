@@ -1,6 +1,6 @@
 # vue3-box-ui-elements-cdn
 
-This template should help get you started developing with Vue 3 in Vite.
+This app aims to demonstrate how to use Box UI Elements with Vue3 and Vite. In this approach I used CDN scripts and @vueuse/head plugin.
 
 ## Recommended IDE Setup
 
