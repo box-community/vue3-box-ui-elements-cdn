@@ -3,5 +3,5 @@ import BoxContentUploader from '../components/BoxContentUploader.vue'
 </script>
 
 <template>
-  <BoxContentUploader />
+  <BoxContentUploader folder-id="0"></BoxContentUploader>
 </template>

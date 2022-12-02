@@ -1,7 +1,7 @@
 <script setup>
-import BoxContentExplorer from '../components/BoxContentExplorer.vue'
+  import BoxContentExplorer from '../components/BoxContentExplorer.vue'
 </script>
 
 <template>
-  <BoxContentExplorer />
+  <BoxContentExplorer folder-id="0"></BoxContentExplorer>
 </template>
