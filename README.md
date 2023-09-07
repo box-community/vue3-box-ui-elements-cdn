@@ -1,3 +1,7 @@
+<img src="/public/box-dev-logo.png" 
+alt= "Box Dev Logo"
+style="margin-left:-10px;"
+width="40%">
 # vue3-box-ui-elements-cdn
 
 This app aims to demonstrate how to use Box UI Elements with Vue3 and Vite. In this approach I used CDN scripts and @vueuse/head plugin.
